@@ -1,4 +1,4 @@
-## Oi! Eu sou João Elias Maccari
+## Oi! Eu sou o João
 
 Desenvolvedor Front-End
 
