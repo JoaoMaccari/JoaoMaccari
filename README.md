@@ -1,7 +1,7 @@
 ## Olá meu nome é João Elias Maccari.
 
 - 🖥️ Desenvolvedor Web.
-- 📖 Atualmente foncando em Back End na plataforma .Net Framework
+- 📖 Atualmente foncando em Back End na plataforma DotNet.
 - 📌 Interessando ReactJS 
 
 # 
