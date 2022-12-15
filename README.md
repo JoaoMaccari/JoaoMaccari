@@ -25,8 +25,9 @@
 
  ##
  
-<div align="center" style="display: inline_block><br> 
-<a href="https://www.linkedin.com/in/joão-elias-maccari-99568a259" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="center" style="display: inline><br> 
+                           
+<a  href="https://www.linkedin.com/in/joão-elias-maccari-99568a259" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:joaomaccaro@hotmail.com)](mailto:joaomaccari@hotmail.com)
 
