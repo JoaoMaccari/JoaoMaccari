@@ -1,8 +1,7 @@
-## Olá meu nome é João Elias Maccari.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1+Mundo+.+.+.;Meu+nome+%C3%A9+Jo%C3%A3o.+;Seja+bem+vindo%2Fa+ao+meu+perfil.)](https://git.io/typing-svg)
 
 - 🖥️ Desenvolvedor Web.
-- 📖 Atualmente foncando em Back End na plataforma DotNet.
-- 📌 Interessando ReactJS 
+- 📖 Estudando e me desenvolvendo.
 
 # 
 
